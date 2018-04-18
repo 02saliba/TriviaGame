@@ -1,20 +1,3 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Marketplace
-Explore
- @02saliba
-Sign out
-0
-0 0 ShiKwan/TriviaGame
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights
-TriviaGame/assets/javascript/app.js
-8ce3f3f  on Nov 15, 2017
- Shi-Kwan ready to go
-     
-566 lines (535 sloc)  17.5 KB
 //https://hobbylark.com/party-games/FreeFun100QuestionQuiz 
 $(document).ready(function(){
 	
@@ -581,16 +564,3 @@ $(document).ready(function(){
 		
 
 })
-© 2018 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-API
-Training
-Shop
-Blog
-About
-Press h to open a hovercard with more details.
